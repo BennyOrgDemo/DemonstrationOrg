@@ -1,2 +1,2 @@
-# Testing a Team Repository
-This is the organizational Readme File - Benny
+#Team Repository Readme File
+This is a test organization for demonstrations - Benny
